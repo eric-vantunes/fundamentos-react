@@ -6,7 +6,8 @@
   <li><strong>[x]</strong>Gerando o bundle com webpack</li>
   <li><strong>[x]</strong>Configurar Loaders</li>
   <li><strong>[x]</strong>Servidor local webpack</li>
-  <li><strong>[x]</strong>Criar primeiro componente</li>
+  <li><strong>[ ]</strong>Criar primeiro componente</li>
+  <li><strong>[ ]</strong>React fragment</li>
 </ul>
 
 <p align="center">
