@@ -2,12 +2,14 @@
 
 <span> TO DO: </span>
 <ul>
-  <li><strong>[x]</strong>Configuração do Babel</li>
-  <li><strong>[x]</strong>Gerando o bundle com webpack</li>
-  <li><strong>[x]</strong>Configurar Loaders</li>
-  <li><strong>[x]</strong>Servidor local webpack</li>
-  <li><strong>[ ]</strong>Criar primeiro componente</li>
-  <li><strong>[ ]</strong>React fragment</li>
+  <li><strong>[X]</strong>Configuração do Babel</li>
+  <li><strong>[X]</strong>Gerando o bundle com webpack</li>
+  <li><strong>[X]</strong>Configurar Loaders</li>
+  <li><strong>[X]</strong>Servidor local webpack</li>
+  <li><strong>[X]</strong>Criar primeiro componente</li>
+  <li><strong>[X]</strong>React fragment</li>
+  <li><strong>[]</strong>Expressões JS no JSX</li>
+  <li><strong>[]</strong>Props</li>
 </ul>
 
 <p align="center">
